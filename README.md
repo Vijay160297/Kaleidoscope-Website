@@ -1,0 +1,2 @@
+# Kaleidoscope-Website
+Simple website
